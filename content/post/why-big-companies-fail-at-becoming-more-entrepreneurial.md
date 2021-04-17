@@ -15,8 +15,6 @@ But a new paper shows that the human brain might stand in the way of enterprise 
 
 Managers and entrepreneurs' brains make decisions differently.
 
-![](https://bill-hennessy.onrender.com/uploads/00d0b4d982a9d1dbaf3b7e9b32a7bed1.jpg)
-
 This [study by Daniella Laureiro-Martínez and others using fMRI](https://web.archive.org/web/20161109182600/http://www.croma.unibocconi.it/wps/wcm/connect/3e3146804cadaef7a443fc0f7bdc7be0/laureiro_12-02.pdf?MOD=AJPERES&useDefaultText=0&useDefaultDesc=0) shows that **entrepreneurs use their entire pre-frontal cortex when exploring opportunities. In contrast, managers use only the left side of the frontal lobe**.
 
 While the public over-generalizes the specialization of the two sides, we know that thoughts that exclude the right side of the brain focus on linear, specific, concrete things, like numbers. Whole-brain thinking adds more creative thoughts in the sense of considering things that aren't yet real.
