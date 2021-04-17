@@ -6,6 +6,5 @@ social:
 - title: Gab
   url: https://gab.com/whennessy
 featured: true
-draft: true
 
 ---
