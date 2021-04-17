@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/affinity-bubbles-turn-simple-errors-into-mass-stupidity.md
 - content/post/here-is-a-simple-solution-to-global-warming-and-hunger.md
 - content/post/how-to-free-your-mind-from-trivial-decisions.md
 - content/post/how-to-persuade-like-the-fbi-s-top-hostage-negotiator.md
