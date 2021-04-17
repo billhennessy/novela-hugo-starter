@@ -5,7 +5,7 @@ avatar: "/v1618328368/image/upload/bill_hennessy_q6bt97.jpg"
 social:
 - title: Gab
   url: https://gab.com/whennessy
-featured: false
+featured: true
 draft: true
 
 ---
