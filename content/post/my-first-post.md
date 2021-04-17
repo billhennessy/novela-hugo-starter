@@ -10,6 +10,6 @@ hero: uploads/american-airlines-737-max-1200xx1173-660-44-0.jpg
 ---
 And, so, we begin building a new Bill Hennessy blog.
 
-I hope you enjoy it. 
+I hope you enjoy it.
 
-![](./uploads/don-draper-1.jpg)
+![](https://bill-hennessy.onrender.com/uploads/don-draper-1.jpg)
