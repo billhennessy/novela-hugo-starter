@@ -12,4 +12,4 @@ And, so, we begin building a new Bill Hennessy blog.
 
 I hope you enjoy it. 
 
-![](uploads/don-draper-1.jpg)
+![](./uploads/don-draper-1.jpg)
