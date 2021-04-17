@@ -1,16 +1,22 @@
 ---
-title: "A Hill to Die On"
-date: 2021-03-30T21:19:20-05:00
+title: A Hill to Die On
+date: 2021-03-30T21:19:20.000-05:00
 url: a-hill-to-die-on
-authors: ["Bill Hennessy"]
-hero: "GordonsCalvary.jpeg"
-categories: ["Faith"]
-tags: ["COVID vaccine","vaccine passport","mark of the beast", "the great reset"]
-draft: false
-keyConcept: ""
+authors:
+- Bill Hennessy
+hero: "/v1618328346/image/upload/GordonsCalvary_glncee.jpg"
+categories:
+- Faith
+tags:
+- COVID vaccine
+- vaccine passport
+- mark of the beast
+- the great reset
+keyConcept: ''
+timeToRead: 2
+excerpt: The only hill worth dying on is Calvary.
+
 ---
-
-
 The only hill worth dying on is Calvary. 
 
 Forty-eight hours from the time I sat down to write, Christendom commemorates a very special Passover meal. The one, by our calendar, in 33 *anno Domini*. 
@@ -73,5 +79,4 @@ There has never been a better time to stand. There has never been a harsher test
 
 Pray, friends, that I receive the wisdom to discern this challenge and the strength to stand with God on that hill. I have no faith in myself, but I know that if He wills it, it will be done. 
 
-And I will pray, likewise, for you who read this and pray for me. 
-
+And I will pray, likewise, for you who read this and pray for me.
