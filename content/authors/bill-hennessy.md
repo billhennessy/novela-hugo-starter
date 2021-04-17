@@ -1,11 +1,11 @@
 ---
 title: Bill Hennessy
 bio: Founder and author
-avatar: "/v1618328368/image/upload/bill_hennessy_q6bt97.jpg"
+avatar: https://bill-hennessy.onrender.com/uploads/c39cf00c-3b3c-4264-8625-cf2cf94cc689_1_201_a.jpeg
 social:
 - title: Gab
   url: https://gab.com/whennessy
-featured: true
+featured: false
 draft: true
 
 ---
