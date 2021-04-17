@@ -5,7 +5,6 @@ title: Plant Your Feet, Dammit!
 excerpt: Stand still when presenting
 date: 2013-01-14T00:00:00-06:00
 hero: "/francescolejones.jpg"
-draft: true
 
 ---
 Just because there’s no podium protecting your genitals from the hostile audience doesn’t give you license to pace around the stage as if the only toilet for 50 miles was closed for repairs. 
