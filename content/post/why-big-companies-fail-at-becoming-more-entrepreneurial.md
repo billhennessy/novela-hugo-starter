@@ -4,7 +4,7 @@ authors: []
 title: Why Big Companies Fail at Becoming More Entrepreneurial
 excerpt: Managers and entrepreneurs brains make decisions differently.
 date: 2013-02-15T00:00:00-06:00
-hero: "/00d0b4d982a9d1dbaf3b7e9b32a7bed1-1.jpg"
+hero: "/00d0b4d982a9d1dbaf3b7e9b32a7bed1.jpg"
 
 ---
 Companies often declare, “we’re going to act like entrepreneurs.” Two years later, they’re still acting like big businesses but with relaxed dress codes. And maybe a few exercise balls rolling around the corridors. Becoming entrepreneurial is all over the business press. [Forbes](https://web.archive.org/web/20161109182600/http://www.forbes.com/sites/danschawbel/2012/09/30/how-to-train-your-mind-to-become-entrepreneurial/). [Techcrunch](https://web.archive.org/web/20161109182600/http://techcrunch.com/2012/07/29/how-big-companies-are-becoming-entrepreneurial/). [Gallup Business Journal](https://web.archive.org/web/20161109182600/http://businessjournal.gallup.com/content/157604/building-corporate-entrepreneurship-hard-work.aspx).
