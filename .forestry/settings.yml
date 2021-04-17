@@ -32,8 +32,8 @@ sections:
   match: "**/*"
   new_doc_ext: yaml
 upload_dir: ''
-public_path: "/image/upload"
-front_matter_path: ''
+public_path: https://res.cloudinary.com/hennessysview/image/upload/c_scale,w_auto:100,dpr_auto
+front_matter_path: https://res.cloudinary.com/hennessysview/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
